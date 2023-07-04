@@ -11,7 +11,7 @@ Our Values:</br>
   💛 <i style='color:gold'>Demystifying Tech</i></br>
   💜 <i style='color:#ac93ff'>Small Businesses</i></br>
 
-We value continious learn.</br>
+We value continuous learning and sharing our competence.</br>
 
 Are you accepting, caring and want to contribute to Open Source, maybe you are a fellow rodent. ;)</br>
 
