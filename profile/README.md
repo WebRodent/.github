@@ -6,7 +6,7 @@
 Our Values:</br>
   💙 <b style='color:#80c0f2'>Open Source</b></br>
   💙 <b style='color:#80c0f2'>Sharing Knowledge</b></br>
-  💙 <b style='color:#80c0f2'>Contribute to Value</b></br> 
+  💙 <b style='color:#80c0f2'>Contribute Value to Businesses</b></br> 
   💙 <b style='color:#80c0f2'>Every Contribution Matters</b></br> 
   💛 <i style='color:gold'>Demystifying Tech</i></br>
   💜 <i style='color:#ac93ff'>Small Businesses</i></br>
