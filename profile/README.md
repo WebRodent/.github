@@ -18,7 +18,7 @@ Are you accepting, caring and want to contribute to Open Source, maybe you are a
 Visit Us and Learn More: 
  - [Git Page](https://docs.webrodent.com/)
  - [Slack](https://web-rodent-nest.slack.com/)
- - [Discord](https://discord.gg/TuQYcz4C)
+ - [Discord]([https://discord.gg/TuQYcz4C](https://discord.gg/CJ3U3R37))
  - And here
 
 
