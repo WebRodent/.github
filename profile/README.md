@@ -1,38 +1,39 @@
 <!-- contents of title.svg is from github.com/aeneasr/aeneasr -->
 ![WebRodent](title.svg)
-<b style='color:gold'>Open Source group that contributes to open-source community and small businessses.</b></br>
+<b style='color:gold'>Evolving From Open Source Roots to Commercial Innovation.</b></br>
 
+## Our Journey & Values
 
-Our Values:</br>
-  💙 <b style='color:#80c0f2'>Open Source</b></br>
-  💙 <b style='color:#80c0f2'>Sharing Knowledge</b></br>
-  💙 <b style='color:#80c0f2'>Contribute Value to Businesses</b></br> 
-  💙 <b style='color:#80c0f2'>Every Contribution Matters</b></br> 
-  💛 <i style='color:gold'>Demystifying Tech</i></br>
-  💜 <i style='color:#ac93ff'>Small Businesses</i></br>
+WebRodent has grown from an enthusiastic open source group to a commercial company dedicated to empowering businesses with innovative web solutions. Our journey has been shaped by our core values, which we continue to cherish as we evolve:
 
-We value continuous learning and sharing our competence.</br>
+  💙 <b style='color:#80c0f2'>Innovation in Web Technology</b></br>
+  💙 <b style='color:#80c0f2'>Knowledge Sharing</b></br>
+  💙 <b style='color:#80c0f2'>Delivering Value to Businesses</b></br>
+  💙 <b style='color:#80c0f2'>Every Contribution Counts</b></br>
+  💛 <i style='color:gold'>Demystifying Technology</i></br>
+  💜 <i style='color:#ac93ff'>Empowering Small Businesses</i></br>
 
-Are you accepting, caring and want to contribute to Open Source, maybe you are a fellow rodent. ;)</br>
+As we transition into a commercial venture, our commitment to the open source community remains steadfast. We continue to share, contribute, and grow alongside the open source world.
 
-Visit Us and Learn More: 
- - [Git Page](https://docs.webrodent.com/)
- - [Slack](https://web-rodent-nest.slack.com/)
- - [Discord](https://discord.gg/CJ3U3R37)
- - And here
+## What We Do
 
+WebRodent now offers a range of commercial services with a focus on:
 
-<!--
-**WebRodent/WebRodent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Web Development**: Creating state-of-the-art websites and applications.
+- **DevOps**: Implementing efficient and agile software development practices.
+- **Systems Integration**: Connecting disparate systems for enhanced functionality.
+- **Cloud Hosting**: Providing reliable, scalable cloud solutions.
 
-Here are some ideas to get you started:
+## Open Source Commitment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our heart still beats for open source. We actively contribute to open source projects and encourage our team to engage with and support the community.
+
+## Join Us
+
+Whether you're a business looking for a tech partner or an individual passionate about open source, we welcome you. Connect, collaborate, and grow with us:
+
+- [Website](https://www.webrodent.com/)
+- [Linkedin](https://www.linkedin.com/company/webrodent)
+- Explore our GitHub Repositories
+
+For commercial inquiries or partnerships, reach out at [contact@webrodent.com](mailto:contact@webrodent.com).
