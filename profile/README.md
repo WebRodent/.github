@@ -1,6 +1,6 @@
 <!-- contents of title.svg is from github.com/aeneasr/aeneasr -->
 ![WebRodent](title.svg)
-<b style='color:gold'>Evolving From Open Source Roots to Commercial Innovation.</b></br>
+<b style='color:gold'>Evolving From Open Source Enthusiasm to Commercial Innovation.</b></br>
 
 ## Our Journey & Values
 
