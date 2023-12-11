@@ -36,4 +36,4 @@ Whether you're a business looking for a tech partner or an individual passionate
 - [Linkedin](https://www.linkedin.com/company/webrodent)
 - Explore our GitHub Repositories
 
-For commercial inquiries or partnerships, reach out at [contact@webrodent.com](mailto:postmaster@webrodent.com).
+For commercial inquiries or partnerships, reach out at [postmaster@webrodent.com](mailto:postmaster@webrodent.com).
