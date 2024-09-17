@@ -1,5 +1,5 @@
 <!-- contents of title.svg is from github.com/aeneasr/aeneasr -->
-![WebRodent](title.svg)
+![WebRodent]([title.svg](https://raw.githubusercontent.com/WebRodent/.github/main/head_tag_image.png))
 <b style='color:gold'>Evolving From Open Source Enthusiasm to Commercial Innovation.</b></br>
 
 ## Our Journey & Values
